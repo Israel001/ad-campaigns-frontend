@@ -1,1 +1,16 @@
-# ad-campaigns-frontend
+## Description
+
+Ad Campaigns
+
+## Installation
+
+```bash
+$ yarn install
+```
+
+## Running the app
+
+```bash
+# development
+$ yarn start
+```
